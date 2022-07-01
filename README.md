@@ -6,4 +6,4 @@
 ### Zadanie II:
 #### Dla różnych rozkładów danych wejściowych porównaj efektywność działania powyższych algorytmów.
 
-#### semestr letni 2021
+#### semestr zimowy 2020
